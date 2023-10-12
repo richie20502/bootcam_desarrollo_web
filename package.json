@@ -1,0 +1,16 @@
+{
+  "name": "bootcam_desarrollo_web",
+  "version": "1.0.0",
+  "description": "este es el boot camp inicial de desarrollo arquitectura distribuida",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "server": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
